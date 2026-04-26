@@ -1,53 +1,54 @@
-[README.md](https://github.com/user-attachments/files/27103859/README.md)
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║  svilia — GitHub Profile README                              ║
-║  Tool cards auto-updated via GitHub Actions on every push    ║
-╚══════════════════════════════════════════════════════════════╝
--->
-
+[README (1).md](https://github.com/user-attachments/files/27103893/README.1.md)
 <div align="center">
 
-```
-███████╗██╗   ██╗██╗██╗     ██╗ █████╗
-██╔════╝██║   ██║██║██║     ██║██╔══██╗
-███████╗██║   ██║██║██║     ██║███████║
-╚════██║╚██╗ ██╔╝██║██║     ██║██╔══██║
-███████║ ╚████╔╝ ██║███████╗██║██║  ██║
-╚══════╝  ╚═══╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050a0e,40:002233,100:00ffe1&height=240&section=header&text=SVILIA&fontSize=90&fontAlignY=40&fontColor=00ffe1&desc=Security%20Researcher%20%2F%20Ethical%20Hacker&descAlignY=60&descSize=20&descColor=c8e6f0&animation=twinkling&stroke=00ffe155&strokeWidth=2"/>
 
-<img src="https://github.com/svilia.png" width="120" alt="svilia"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=17&duration=2200&pause=900&color=00FFE1&center=true&vCenter=true&width=620&height=36&lines=%5B+INITIALIZING+SVILIA+RECON+SYSTEM...+%5D;%5B+OSINT+%7C+RECON+%7C+NETWORK+SECURITY+%5D;%5B+BUILDING+TOOLS+FOR+THE+COMMUNITY+%5D;%5B+HACK+ETHICALLY.+RECON+RESPONSIBLY.+%5D)](https://git.io/typing-svg)
 
-### `> svilia` &nbsp;·&nbsp; Security Researcher & Ethical Hacker
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1200&color=00FFE1&center=true&vCenter=true&width=520&lines=Security+Researcher+%2F+Ethical+Hacker;OSINT+%7C+Recon+%7C+Network+Security;Building+tools+for+the+security+community;Hack+ethically.+Recon+responsibly.)](https://git.io/typing-svg)
+<img src="https://github.com/svilia.png" width="130" style="border-radius:50%; border: 3px solid #00ffe1;"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=svilia&style=for-the-badge&color=00ffe1&labelColor=050a0e&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/svilia?style=for-the-badge&color=00a8ff&labelColor=050a0e&label=FOLLOWERS)](https://github.com/svilia)
 
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=svilia&show_icons=true&theme=transparent&hide_border=true&title_color=00ffe1&icon_color=00a8ff&text_color=c8e6f0&bg_color=00000000&ring_color=00ffe1" width="400"/>
+## `⚡ > whoami`
+
+<br/>
+
+<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=svilia&show_icons=true&theme=transparent&hide_border=true&title_color=00ffe1&icon_color=00a8ff&text_color=c8e6f0&bg_color=00000000&ring_color=00ffe1&include_all_commits=true&count_private=true"/>
 
 ```bash
-┌──────────────────────────────┐
-│  $ whoami                    │
-│  > svilia                    │
-│                              │
-│  Role   : Security Research  │
-│  Focus  : OSINT · Recon      │
-│           Network Sec        │
-│  Stack  : Python · Bash      │
-│           Scapy · Docker     │
-│  OS     : Kali / ParrotOS   │
-└──────────────────────────────┘
+┌─────────────────────────────────────────┐
+│                                         │
+│   $ cat /etc/svilia/profile.conf        │
+│                                         │
+│   USER     : svilia                     │
+│   ROLE     : Security Researcher        │
+│             Ethical Hacker              │
+│   FOCUS    : OSINT · Recon             │
+│             Network Security           │
+│             Vulnerability Research     │
+│   STACK    : Python · Bash · Scapy     │
+│             Docker · Nmap              │
+│   OS       : Kali Linux / ParrotOS    │
+│   STATUS   : [████████████] ONLINE     │
+│                                         │
+└─────────────────────────────────────────┘
 ```
 
 <br clear="right"/>
 
 ---
 
-## `> ls ./skills`
+## `🛠️ > ls ./skills`
 
 <div align="center">
 
@@ -55,56 +56,47 @@
 ![Bash](https://img.shields.io/badge/Bash-050a0e?style=for-the-badge&logo=gnubash&logoColor=00ffe1)
 ![Linux](https://img.shields.io/badge/Linux-050a0e?style=for-the-badge&logo=linux&logoColor=00ffe1)
 ![Kali](https://img.shields.io/badge/Kali_Linux-050a0e?style=for-the-badge&logo=kalilinux&logoColor=00a8ff)
+![ParrotOS](https://img.shields.io/badge/ParrotOS-050a0e?style=for-the-badge&logo=linux&logoColor=00a8ff)
 ![Docker](https://img.shields.io/badge/Docker-050a0e?style=for-the-badge&logo=docker&logoColor=00a8ff)
 ![Scapy](https://img.shields.io/badge/Scapy-050a0e?style=for-the-badge&logo=python&logoColor=ff3c5a)
-![OSINT](https://img.shields.io/badge/OSINT-050a0e?style=for-the-badge&logo=tor-project&logoColor=00ff88)
 ![Nmap](https://img.shields.io/badge/Nmap-050a0e?style=for-the-badge&logo=nmap&logoColor=ffb800)
+![OSINT](https://img.shields.io/badge/OSINT-050a0e?style=for-the-badge&logo=tor-project&logoColor=00ff88)
+![Wireshark](https://img.shields.io/badge/Wireshark-050a0e?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-050a0e?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
+![Git](https://img.shields.io/badge/Git-050a0e?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
 ---
 
-## `> ls ./tools` &nbsp;<sub><sup>⚡ auto-updates on every push</sup></sub>
+## `🔍 > ls ./tools` &nbsp; <sub><sup>⚡ auto-updates on every push</sup></sub>
 
 <!--START_SECTION:repos-->
 <!--END_SECTION:repos-->
 
 ---
 
-## `> cat ./stats`
+## `📊 > cat ./stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svilia&layout=compact&theme=transparent&hide_border=true&title_color=00ffe1&text_color=c8e6f0&bg_color=00000000&langs_count=6" width="320"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=svilia&theme=transparent&hide_border=true&ring=00ffe1&fire=ff3c5a&currStreakLabel=00a8ff&sideLabels=c8e6f0&dates=3a6070" width="380"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svilia&layout=donut&theme=transparent&hide_border=true&title_color=00ffe1&text_color=c8e6f0&bg_color=00000000&langs_count=6" width="280"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=svilia&theme=transparent&hide_border=true&ring=00ffe1&fire=ff3c5a&currStreakLabel=00a8ff&sideLabels=c8e6f0&dates=3a6070&currStreakNum=ffffff&sideNums=ffffff" width="380"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=svilia&bg_color=050a0e&color=00ffe1&line=00a8ff&point=ff3c5a&area=true&area_color=00ffe120&hide_border=true&custom_title=Contribution+Graph" width="100%"/>
 
 </div>
 
 ---
 
-## `> cat ./team`
+## `🏆 > cat ./trophies`
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/svilia">
-        <img src="https://github.com/svilia.png" width="90" alt="svilia"/><br/>
-        <b>svilia</b>
-      </a><br/>
-      <sub>⚡ Lead & Creator</sub>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/wortex213433">
-        <img src="https://github.com/wortex213433.png" width="90" alt="wortex213433"/><br/>
-        <b>wortex213433</b>
-      </a><br/>
-      <sub>🔧 Core Contributor</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=svilia&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=00ffe1"/>
 
 </div>
 
@@ -113,13 +105,18 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────┐
-│   FOR EDUCATIONAL & AUTHORIZED USE ONLY          │
-│   Unauthorized scanning is illegal.              │
-│   Hack ethically. Recon responsibly.             │
-└──────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   ⚠  FOR EDUCATIONAL & AUTHORIZED USE ONLY  ⚠           ║
+║                                                          ║
+║   Unauthorized scanning or probing of systems            ║
+║   you do not own is illegal.                             ║
+║                                                          ║
+║         HACK ETHICALLY. RECON RESPONSIBLY.               ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=svilia&style=for-the-badge&color=00ffe1&labelColor=050a0e&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe1,60:002233,100:050a0e&height=120&section=footer"/>
 
 </div>

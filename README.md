@@ -9,9 +9,7 @@ Aşağıdaki grafikler GitHub üzerindeki aktivitelerime göre otomatik olarak g
 | <img src="https://github-readme-stats.vercel.app/api?username=Svilia&show_icons=true&theme=radical&include_all_commits=true&count_private=true&icon_color=FF6F00&text_color=ffffff&bg_color=050a0e" alt="Svilia GitHub Stats" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svilia&layout=compact&theme=radical&text_color=ffffff&bg_color=050a0e" alt="Top Langs" width="400"/> |
 
 ---
-### 🛠️ Öne Çıkan Araçlarım
-En çok öne çıkarmak istediğin araçlarının isimlerini aşağıdaki `repo=` kısımlarına (büyük/küçük harfe dikkat ederek) yazarak şık kartlar halinde gösterebilirsin:
-<a href="https://github.com/Svilia/ARAC_ADI_1">
+###href="https://github.com/Svilia/ARAC_ADI_1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svilia&repo=ARAC_ADI_1&bg_color=050a0e&text_color=ffffff&icon_color=FF6F00" />
 </a>
 <a href="https://github.com/Svilia/ARAC_ADI_2">

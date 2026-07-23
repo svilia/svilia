@@ -10,9 +10,7 @@ Aşağıdaki grafikler GitHub üzerindeki aktivitelerime göre otomatik olarak g
 
 ---
 ###href="https://github.com/Svilia/ARAC_ADI_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svilia&repo=ARAC_ADI_1&bg_color=050a0e&text_color=ffffff&icon_color=FF6F00" />
-</a>
-<a href="https://github.com/Svilia/ARAC_ADI_2">
+href="https://github.com/Svilia/ARAC_ADI_2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svilia&repo=ARAC_ADI_2&bg_color=050a0e&text_color=ffffff&icon_color=FF6F00" />
 </a>
 ---
